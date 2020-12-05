@@ -1,6 +1,3 @@
-
-<!-- saved from url=(0045)https://2020.vizsociety.net/d3viz/lib/all.php -->
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body>//load d3viz.js
 /* Alex Wellerstein's basic D3 Vizualization Template -- designed to make the creation of D3 vizualizations more modular 
 
 v.3.0 (2017) -- now supports Google Maps
